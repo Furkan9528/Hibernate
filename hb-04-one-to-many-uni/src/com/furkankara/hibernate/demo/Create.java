@@ -32,7 +32,7 @@ public class Create {
 			
 			//associate the objects
 			tempInstructor.setInstructorDetail(tempInstructorDetail);
-		
+		 
 			// start a transaction
 			session.beginTransaction();
 			
