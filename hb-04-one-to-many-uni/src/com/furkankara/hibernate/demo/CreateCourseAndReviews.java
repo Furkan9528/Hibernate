@@ -7,7 +7,7 @@ import org.hibernate.cfg.Configuration;
 
 import com.furkankara.hibernate.demo.entity.Course;
 import com.furkankara.hibernate.demo.entity.Instructor;
-import com.furkankara.hibernate.demo.entity.InstructorDetail;
+import com.furkankara.hibernate.demo.entity.InstructorDetail; 
 import com.furkankara.hibernate.demo.entity.Review;
 
 
