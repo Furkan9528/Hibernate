@@ -34,7 +34,7 @@ public class Create {
 			tempInstructor.setInstructorDetail(tempInstructorDetail);
 		 
 			// start a transaction
-			session.beginTransaction();
+			session.beginTransaction(); 
 			
 			//save the instructor
 			//Note: this will ALSO save the details object
