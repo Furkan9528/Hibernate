@@ -11,7 +11,7 @@ import com.furkankara.hibernate.demo.entity.InstructorDetail;
 
 public class Create {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 
 		// create session factory
 		SessionFactory factory = new Configuration()
