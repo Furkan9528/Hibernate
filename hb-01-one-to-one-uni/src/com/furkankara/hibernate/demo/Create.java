@@ -5,7 +5,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-import com.furkankara.hibernate.demo.entity.Instructor;
+import com.furkankara.hibernate.demo.entity.Instructor; 
 import com.furkankara.hibernate.demo.entity.InstructorDetail;
 
  
