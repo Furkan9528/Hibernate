@@ -9,7 +9,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name="instructor_detail")
-public class InstructorDetail {
+public class InstructorDetail { 
 
 	//annotate the class as an entity and map to db table
 	
