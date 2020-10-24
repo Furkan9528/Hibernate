@@ -17,7 +17,7 @@ public class Create {
 		SessionFactory factory = new Configuration()
 								.configure("hibernate.cfg.xml")
 								.addAnnotatedClass(Instructor.class)
-								.addAnnotatedClass(InstructorDetail.class)
+								.addAnnotatedClass(InstructorDetail.class) 
 								.buildSessionFactory();
 		
 		// create session
