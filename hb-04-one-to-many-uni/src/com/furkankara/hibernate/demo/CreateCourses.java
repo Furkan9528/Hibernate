@@ -23,7 +23,7 @@ public class CreateCourses {
 								.buildSessionFactory();
 		
 		// create session
-		Session session = factory.getCurrentSession();
+		Session session = factory.getCurrentSession(); 
 		
 		try {			
 			//
