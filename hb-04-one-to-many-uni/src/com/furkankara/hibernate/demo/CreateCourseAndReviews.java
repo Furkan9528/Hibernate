@@ -28,7 +28,7 @@ public class CreateCourseAndReviews {
 		Session session = factory.getCurrentSession();
 		
 		try {			
-			
+			 
 			// start a transaction
 			session.beginTransaction();
 			
