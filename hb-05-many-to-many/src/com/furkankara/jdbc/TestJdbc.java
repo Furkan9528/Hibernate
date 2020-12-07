@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 
 
-public class TestJdbc {
+public class TestJdbc { 
 
 	public static void main(String[] args) {
 
