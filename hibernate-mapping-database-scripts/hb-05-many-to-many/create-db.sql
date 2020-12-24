@@ -3,7 +3,7 @@ DROP SCHEMA IF EXISTS `hb-05-many-to-many`;
 CREATE SCHEMA `hb-05-many-to-many`;
 
 use `hb-05-many-to-many`;
-
+ 
 SET FOREIGN_KEY_CHECKS = 0;
 
 DROP TABLE IF EXISTS `instructor_detail`;
