@@ -26,7 +26,7 @@ public class CreateInstructor {
 		Session session = factory.getCurrentSession();
 		
 	try {			
-		
+		 
 			// create the object
 			Instructor tempInstructor= new Instructor("Sibel","KARA", "sibel@gmail.com");
 			
