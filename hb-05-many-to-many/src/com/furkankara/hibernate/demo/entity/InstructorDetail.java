@@ -20,7 +20,7 @@ public class InstructorDetail {
 	//annotate the fields with db column names
 	
 	//create constructors
-	
+	 
 	//generate getter/setter methods
 	
 	//generate toString() method
